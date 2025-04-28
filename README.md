@@ -1,6 +1,7 @@
 # OS-Linux-commands-Shell-scripting
 
 Operating systems Lab exercise
+
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
@@ -83,11 +84,8 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
-
-
-
-
 cut -d "|" -f 1 file22
+
 ## OUTPUT
 
 
