@@ -1018,7 +1018,7 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- ![369747843-09c5e6a3-239d-4f40-80e4-26ad38e934da](https://github.com/user-attachments/assets/7def7a65-cb7d-42d7-9982-938d5cb4d33a)
+![369747843-09c5e6a3-239d-4f40-80e4-26ad38e934da](https://github.com/user-attachments/assets/7def7a65-cb7d-42d7-9982-938d5cb4d33a)
 
  cat argshift1.sh
 ```bash
@@ -1051,8 +1051,7 @@ set +x
 ## OUTPUT
  ./argshift.sh 1 2 3
  
- ![369747910-d62b0c59-a9f7-4e05-86cd-c25f51645177](https://github.com/user-attachments/assets/b6b0d3cf-b489-4597-8e27-0734639cab03)
-
+![369747910-d62b0c59-a9f7-4e05-86cd-c25f51645177](https://github.com/user-attachments/assets/b6b0d3cf-b489-4597-8e27-0734639cab03)
  
 cat > nc.awk
 ```bash
